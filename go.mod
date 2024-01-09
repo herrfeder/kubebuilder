@@ -1,9 +1,10 @@
-module sigs.k8s.io/kubebuilder/v3
+module sigs.k8s.io/kubebuilder/v0.0.2
 
 go 1.20
 
 require (
 	github.com/gobuffalo/flect v1.0.2
+	github.com/markbates/pkger v0.17.1
 	github.com/onsi/ginkgo/v2 v2.13.2
 	github.com/onsi/gomega v1.30.0
 	github.com/sirupsen/logrus v1.9.3
@@ -18,6 +19,7 @@ require (
 require (
 	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
+	github.com/gobuffalo/here v0.6.0 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/pprof v0.0.0-20230907193218-d3ddc7976beb // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
