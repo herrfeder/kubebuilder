@@ -1,4 +1,4 @@
-module github.com/herrfeder/kubebuilder-new
+module sigs.k8s.io/kubebuilder
 
 go 1.20
 
